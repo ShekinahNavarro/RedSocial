@@ -1,0 +1,31 @@
+body{
+    background-image:"https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg";
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar{
+    background-color: rgba(255, 255, 255, 0.549);
+}
+
+body h1{
+    color: white;
+}
+
+/* Estilo para hacer el fondo del modal transparente */
+.modal-content {
+    background-color: transparent !important;
+    border: none;
+    box-shadow: none;
+}
+
+/* Estilo para el formulario dentro del modal */
+.modal-body {
+    color: white; /* Cambiar el color del texto si es necesario */
+}
+
+/* Estilo para el botón de cerrar */
+.btn-close {
+    color: white; /* Cambiar el color del botón de cerrar si es necesario */
+}
