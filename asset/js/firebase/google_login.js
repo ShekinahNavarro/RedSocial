@@ -18,8 +18,11 @@ googleButton.addEventListener("click", async () => {
         const signinModal = document.getElementById('signin-modal');
         const modal = bootstrap.Modal.getInstance(signinModal);
         modal.hide();
+       
     }
     catch (error) {
         console.log(error);
     }
 });
+
+
