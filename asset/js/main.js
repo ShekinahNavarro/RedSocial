@@ -22,6 +22,3 @@ onAuthStateChanged(auth, async (user) =>
     }
 });
 
-function onLogin() {
-    document.getElementById('main-heading').style.display = 'none'; // Oculta el h2
-}
