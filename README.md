@@ -17,7 +17,7 @@ Este proyecto es una red social donde los usuarios pueden compartir y comentar s
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/ShekinahNavarro/red-social-canciones.git`
+1. Clona este repositorio: `git clone https://github.com/ShekinahNavarro/RedSocial.git`
 2. Instala las dependencias: `npm install`
 3. Configura tu proyecto de Firebase en el archivo `.env`
 4. Inicia la aplicación: `npm start`
